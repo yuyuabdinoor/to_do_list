@@ -1,0 +1,22 @@
+-installing django
+-boilerplate files  for a new django project
+-in the terminal create apps 
+-using `python manage.py startapp <app_name>` command
+-then runserver to test it on local machine
+-create urls to handle routing  and connect to apps
+-created user model to  handle user info
+-migrate our data to our database
+-register the models in the admin.py
+-Task List Page
+-Detail Page
+-Create Item
+-Update Item
+-Delete Item
+-Login/Logout
+-Restricted Pages
+-User Specific Data
+-User Registration
+-Search
+-Styling our pages
+
+
